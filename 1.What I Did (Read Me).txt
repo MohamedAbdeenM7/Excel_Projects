@@ -1,4 +1,4 @@
 1.cleaned the data from the missing values and correct other values  
 2.used some functions like trim and upper and proper and sum and average  
 3.made some pivot tables 
-4.made dashboard
+4.made a dashboard
